@@ -1,0 +1,1 @@
+From gcr.io/open-match-public-images/openmatch-query:1.8.0
